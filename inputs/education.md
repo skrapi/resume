@@ -1,5 +1,6 @@
 ## Education
 
-**University of Cape Town**
-BSc(Eng) in Mechatronics with Honours
-2015 - 2018 GPA: 75%
+**University of Cape Town** <br>
+Bachelor of Science in Mechatronics Engineering (Honours) <br>
+2015 - 2018 <br>
+GPA: 75%
