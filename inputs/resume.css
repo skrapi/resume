@@ -1,6 +1,7 @@
 <style>
   body {
     font-family: "Source Sans Pro", "Lucida Grande", Calibri, Helvetica, sans-serif;
+    text-align: justify;
   }
   h1 {
     font-size: 2.5em;
@@ -8,5 +9,6 @@
   }
   li {
     margin-bottom: .3em;
+    text-align: justify;
   }
 </style>
