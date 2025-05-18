@@ -10,7 +10,7 @@ I lead the Linux Kernel team in the EC2 Nitro Hypervisor organization. My team i
 - Managed a team of 8 engineers, growing it from 6, and managed 5 intern projects.
 - Triaged and mitigated over 50 embargoed security events with zero embargo breaches.
 
-### [Amazon Web Services](https://aws.amazon.com), Berlin
+### [Amazon Web Services](https://aws.amazon.com), Cape Town/Berlin
 Software Development Engineer, Aug 2021 – Jul 2023
 
 
