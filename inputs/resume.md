@@ -1,2 +1,2 @@
 # Sylvan Smit
-[sylvan@hey.com](mailto:sylvan@hey.com) - [sylvansmit.com](sylvansmit.com) - +49 151 2907 8265
+[sylvan@sylvansmit.com](mailto:sylvan@sylvansmit.com) - [sylvansmit.com](sylvansmit.com) - +49 151 2907 8265

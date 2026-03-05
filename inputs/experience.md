@@ -1,10 +1,19 @@
 ## Professional Experience
 
+### [Personalis](https://personalis.io), Berlin
+Founder, Mar 2026 – Present
+
+I founded Personalis, because I identified a real need for personalised support for young, ambitious technical professionals, and aim to build that for them.
+
+- Developed the idea of the Personalis Companion.
+- Generated 20 waiting list sign-ups.
+- Built and deployed the Personalis App to the iOS Testflight programme.
+
 ### [Amazon Web Services](https://aws.amazon.com/), Berlin
-Software Development Manager, Jul 2023 – Present
+Software Development Manager, Jul 2023 – Aug 2026
 
 
-I lead the Linux Kernel team in the EC2 Nitro Hypervisor organization. My team is responsible for maintaining and upgrading the kernel, as well as triaging and mitigating all security issues, both internal and embargoed.
+I led the Linux Kernel team in the EC2 Nitro Hypervisor organization. My team was responsible for maintaining and upgrading the kernel, as well as triaging and mitigating all security issues, both internal and embargoed.
 
 - Created all team processes including implementing Scrum, designing our operations model, and security status reporting.
 - Managed a team of 8 engineers, growing it from 6, and managed 5 intern projects.
