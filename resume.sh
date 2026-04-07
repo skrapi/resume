@@ -45,6 +45,12 @@ $inputsDir/resume.md
 pandoc -H $inputsDir/resume.tex "$outputsDir/$resumeName.html" -o "$outputsDir/$resumeName.pdf"
 
 ###
+## Convert the HTML Resume into Docx Resume
+#
+
+pandoc -H $inputsDir/resume.tex "$outputsDir/$resumeName.html" -o "$outputsDir/$resumeName.docx"
+
+###
 ## References
 #
 

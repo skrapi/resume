@@ -3,39 +3,21 @@
 ### [Personalis](https://personalis.io), Berlin
 Founder, Mar 2026 – Present
 
-I founded Personalis, because I identified a real need for personalised support for young, ambitious technical professionals, and aim to build that for them.
-
-- Developed the idea of the Personalis Companion.
-- Generated 20 waiting list sign-ups.
-- Built and deployed the Personalis App to the iOS Testflight programme.
+I founded Personalis having identified a real need for personalised support among young, ambitious technical professionals — and have already begun building it. I developed the concept of the Personalis Companion, built and deployed the app to iOS TestFlight, and generated 20 waiting list sign-ups, all before raising a single dollar of funding.
 
 ### [Amazon Web Services](https://aws.amazon.com/), Berlin
 Software Development Manager, Jul 2023 – Aug 2026
 
 
-I led the Linux Kernel team in the EC2 Nitro Hypervisor organization. My team was responsible for maintaining and upgrading the kernel, as well as triaging and mitigating all security issues, both internal and embargoed.
-
-- Created all team processes including implementing Scrum, designing our operations model, and security status reporting.
-- Managed a team of 8 engineers, growing it from 6, and managed 5 intern projects.
-- Triaged and mitigated over 50 embargoed security events with zero embargo breaches.
+I led the Linux Kernel team in the EC2 Nitro Hypervisor organisation at AWS, responsible for kernel maintenance, upgrades, and the triage and mitigation of all security vulnerabilities — both internal and embargoed. I built the team's operating model from scratch, implementing Scrum, designing our operations processes, and establishing security status reporting. I managed a team of 8 engineers, grew it from 6, oversaw 5 intern projects, and triaged and mitigated over 50 embargoed security events with zero embargo breaches.
 
 ### [Amazon Web Services](https://aws.amazon.com), Cape Town/Berlin
 Software Development Engineer, Aug 2021 – Jul 2023
 
-
-I was responsible for developing novel dynamic memory allocation schemes for oversubscribed virtual machines and developing a new macOS based hypervisor in the EC2 Nitro system. 
-
-- Implemented Rust applications that deployed to 1000s of servers.
-- Created a network driver in Rust, with 10Gbps of bandwidth. 
-
+I developed novel dynamic memory allocation schemes for oversubscribed virtual machines and built a new macOS-based hypervisor within the EC2 Nitro system. I implemented Rust applications deployed to thousands of servers and wrote a network driver in Rust capable of 10Gbps of bandwidth.
 
 
 ### [Plentify](https://plentify.io/), Cape Town
 Embedded Software Engineer, Nov 2018 – Jul 2021
 
-
-I was the core Embedded Software Engineer for Plentify's initial product, HotBot, which is now installed in thousands of South African homes.
-
-- Wrote the hardware abstraction layer, drivers and application code for HotBot.
-- Designed and built an encrypted OTA firmware update solution, and implemented a temperature control scheme using a finite state machine, allowing for fully emulated testing and validation.
-- Implemented a subsection of the IEEE 802.15.4 WPAN stack, to connect hundreds of devices via a mesh network. 
+I was the first embedded software engineer for Plentify's first product, HotBot, now installed in thousands of South African homes. I wrote the hardware abstraction layer, drivers, and application code, and designed an encrypted OTA firmware update solution with a finite state machine-based temperature control scheme that allowed for fully emulated testing and validation. I also implemented a subsection of the IEEE 802.15.4 WPAN stack, connecting hundreds of devices via a mesh network.
